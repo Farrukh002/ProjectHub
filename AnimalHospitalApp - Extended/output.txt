@@ -1,0 +1,10 @@
+ANIMAL
+DOGS
+CATS
+
+                    Owner         Arrival       Departure       Name   Age     Gender   Healthy?      Legs      Feeds
+            Maxine McEwen      2017/01/05      2017/02/01   Woofeors     5    Unknown       True
+           James Campbell      2018/05/30      2018/06/14     Carilo     5       Male      False         4          2
+             Jones Brenda      2016/03/10      2016/04/02    Derilla     6     Female      False         3          2
+                  No Name      2018/07/30      2018/08/14    No Name          Unknown      False         4          2
+              Ellis Craig      2018/09/09      2018/09/21     Salida     2     Female      False         3          1

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="form-floating py-2 col-12">
+        <select asp-for="@Model.SelectedMaterialIds" asp-items="@Model.AvailableMaterials" class="form-select border-0 shadow">
+            <option disabled selected>--Select Material --</option>
+        </select>
+        <label asp-for="SelectedMaterialIds" class="ms-2"></label>
+        <span asp-validation-for="SelectedMaterialIds" class="text-danger"></span>
+    </div>
+</body>
+</html>
