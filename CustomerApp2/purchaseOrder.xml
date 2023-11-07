@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<purchaseOrders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PurchaseOrder>
+    <shipTo name="William A. Klein">
+      <street>2231 Huntz Lane</street>
+      <city>Cambridge</city>
+      <state>Massachusetts(MA)</state>
+      <zip>02141</zip>
+    </shipTo>
+    <orderDate>Wednesday, March 22, 2023</orderDate>
+    <items>
+      <OrderedItem>
+        <itemName>ballon</itemName>
+        <quantity>100</quantity>
+        <unitPrice>42.11</unitPrice>
+        <lineTotal>4211.00</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>ballon</itemName>
+        <quantity>100</quantity>
+        <unitPrice>42.11</unitPrice>
+        <lineTotal>4211.00</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>shovel</itemName>
+        <quantity>1</quantity>
+        <unitPrice>40.29</unitPrice>
+        <lineTotal>40.29</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>ballon</itemName>
+        <quantity>100</quantity>
+        <unitPrice>42.11</unitPrice>
+        <lineTotal>4211.00</lineTotal>
+      </OrderedItem>
+    </items>
+    <subTotal>12673.29</subTotal>
+    <shipCost>12.50</shipCost>
+    <totalCost>12685.79</totalCost>
+  </PurchaseOrder>
+  <PurchaseOrder>
+    <shipTo name="William A. Klein">
+      <street>2231 Huntz Lane</street>
+      <city>Cambridge</city>
+      <state>Massachusetts(MA)</state>
+      <zip>02141</zip>
+    </shipTo>
+    <orderDate>Wednesday, March 22, 2023</orderDate>
+    <items>
+      <OrderedItem>
+        <itemName>shovel</itemName>
+        <quantity>1</quantity>
+        <unitPrice>40.29</unitPrice>
+        <lineTotal>40.29</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>greeting card</itemName>
+        <quantity>2</quantity>
+        <unitPrice>5.09</unitPrice>
+        <lineTotal>10.18</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>cup</itemName>
+        <quantity>10</quantity>
+        <unitPrice>35.12</unitPrice>
+        <lineTotal>351.20</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>lamp shade</itemName>
+        <quantity>3</quantity>
+        <unitPrice>12.1</unitPrice>
+        <lineTotal>36.3</lineTotal>
+      </OrderedItem>
+    </items>
+    <subTotal>437.97</subTotal>
+    <shipCost>12.50</shipCost>
+    <totalCost>450.47</totalCost>
+  </PurchaseOrder>
+  <PurchaseOrder>
+    <shipTo name="Richard J. McCarty">
+      <street>2025 Heavner Court</street>
+      <city>Humboldt</city>
+      <state>Iowa(IA)</state>
+      <zip>50548</zip>
+    </shipTo>
+    <orderDate>Wednesday, March 22, 2023</orderDate>
+    <items>
+      <OrderedItem>
+        <itemName>ballon</itemName>
+        <quantity>100</quantity>
+        <unitPrice>42.11</unitPrice>
+        <lineTotal>4211.00</lineTotal>
+      </OrderedItem>
+    </items>
+    <subTotal>4211.00</subTotal>
+    <shipCost>12.50</shipCost>
+    <totalCost>4223.50</totalCost>
+  </PurchaseOrder>
+  <PurchaseOrder>
+    <shipTo name="Marsha B. Victoria">
+      <street>2662 Collins Avenue</street>
+      <city>Westerville</city>
+      <state>Ohio(OH)</state>
+      <zip>43081</zip>
+    </shipTo>
+    <orderDate>Wednesday, March 22, 2023</orderDate>
+    <items>
+      <OrderedItem>
+        <itemName>cup</itemName>
+        <quantity>10</quantity>
+        <unitPrice>35.12</unitPrice>
+        <lineTotal>351.20</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>shovel</itemName>
+        <quantity>1</quantity>
+        <unitPrice>40.29</unitPrice>
+        <lineTotal>40.29</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>shovel</itemName>
+        <quantity>1</quantity>
+        <unitPrice>40.29</unitPrice>
+        <lineTotal>40.29</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>cup</itemName>
+        <quantity>10</quantity>
+        <unitPrice>35.12</unitPrice>
+        <lineTotal>351.20</lineTotal>
+      </OrderedItem>
+    </items>
+    <subTotal>782.98</subTotal>
+    <shipCost>12.50</shipCost>
+    <totalCost>795.48</totalCost>
+  </PurchaseOrder>
+  <PurchaseOrder>
+    <shipTo name="Zulma S. Baker">
+      <street>2318 Harley Brook Lane</street>
+      <city>Johnstown</city>
+      <state>Pennsylvania(PA)</state>
+      <zip>15903</zip>
+    </shipTo>
+    <orderDate>Wednesday, March 22, 2023</orderDate>
+    <items>
+      <OrderedItem>
+        <itemName>greeting card</itemName>
+        <quantity>2</quantity>
+        <unitPrice>5.09</unitPrice>
+        <lineTotal>10.18</lineTotal>
+      </OrderedItem>
+    </items>
+    <subTotal>10.18</subTotal>
+    <shipCost>12.50</shipCost>
+    <totalCost>22.68</totalCost>
+  </PurchaseOrder>
+</purchaseOrders>
